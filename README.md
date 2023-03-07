@@ -1,10 +1,11 @@
-# Chromium Keep Awake
+# Chromium Keep Awake <img src="https://raw.githubusercontent.com/Alex313031/Chromium-KeepAwake/main/logo.png" width="64">
+
 Chromium/Chrome extension to override system power-saving settings.
 
- - This is a fork of https://chrome.google.com/webstore/detail/keep-awake/bijihlabcfdnabacffofojgmehjdielb except:
+ - This is a fork of https://chrome.google.com/webstore/detail/keep-awake/bijihlabcfdnabacffofojgmehjdielb, except:
  > - It was updated to [Manifest Version 3](https://developer.chrome.com/docs/extensions/mv3/intro/).  
- > - Updated the manifest.json file with more values.  
- > - Added more icon image sizes.  
+ > - Updated the [manifest.json file](https://github.com/Alex313031/Chromium-KeepAwake/blob/main/src/manifest.json) with more values.  
+ > - Added more [icon](https://github.com/Alex313031/Chromium-KeepAwake/tree/main/src/img) image sizes.  
 
 ----------------------------------------------------------
 
